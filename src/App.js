@@ -53,7 +53,7 @@ const decrement = (id) =>{
 };
 
   return (
-    <div className="w-screen h-screen p-10 bg-gray-100 text-slate-700 text-center">
+    <div className="w-screen h-screen p-10 bg-gray-100 text-slate-700 text-center flex flex-col items-center justify-center">
       <h1 className="max-w-md max-auto text-center text-2xl font-bold">
         Simple Counter Application
       </h1>
